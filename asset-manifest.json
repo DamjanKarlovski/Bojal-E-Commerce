@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Bojal-E-Commerce/static/js/main.08609a24.chunk.js",
-    "main.js.map": "/Bojal-E-Commerce/static/js/main.08609a24.chunk.js.map",
+    "main.js": "/Bojal-E-Commerce/static/js/main.e9b7af35.chunk.js",
+    "main.js.map": "/Bojal-E-Commerce/static/js/main.e9b7af35.chunk.js.map",
     "runtime-main.js": "/Bojal-E-Commerce/static/js/runtime-main.d6b7f545.js",
     "runtime-main.js.map": "/Bojal-E-Commerce/static/js/runtime-main.d6b7f545.js.map",
     "static/js/2.acc50bc0.chunk.js": "/Bojal-E-Commerce/static/js/2.acc50bc0.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.d6b7f545.js",
     "static/js/2.acc50bc0.chunk.js",
-    "static/js/main.08609a24.chunk.js"
+    "static/js/main.e9b7af35.chunk.js"
   ]
 }
