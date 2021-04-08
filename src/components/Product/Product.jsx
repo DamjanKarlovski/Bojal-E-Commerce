@@ -14,8 +14,8 @@ const Product = ({product, onAddToCart}) => {
                     <Typography variant='h5' gutterBottom>
                         {product.name}
                     </Typography>
-                    <Typography variant='h5' >
-                        {product.price.formatted_with_symbol}
+                    <Typography variant='h6' >
+                        {product.price.formatted}ден.
                     </Typography>
                 </div>
                 <Typography dangerouslySetInnerHTML={{ __html: product.description}} variant='body2' color='textSecondary'/>
