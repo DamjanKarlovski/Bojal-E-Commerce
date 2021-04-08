@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Bojal-E-Commerce/static/js/main.08609a24.chunk.js",
+    "main.js.map": "/Bojal-E-Commerce/static/js/main.08609a24.chunk.js.map",
+    "runtime-main.js": "/Bojal-E-Commerce/static/js/runtime-main.d6b7f545.js",
+    "runtime-main.js.map": "/Bojal-E-Commerce/static/js/runtime-main.d6b7f545.js.map",
+    "static/js/2.acc50bc0.chunk.js": "/Bojal-E-Commerce/static/js/2.acc50bc0.chunk.js",
+    "static/js/2.acc50bc0.chunk.js.map": "/Bojal-E-Commerce/static/js/2.acc50bc0.chunk.js.map",
+    "index.html": "/Bojal-E-Commerce/index.html",
+    "static/js/2.acc50bc0.chunk.js.LICENSE.txt": "/Bojal-E-Commerce/static/js/2.acc50bc0.chunk.js.LICENSE.txt",
+    "static/media/BOJAL.f6759d02.png": "/Bojal-E-Commerce/static/media/BOJAL.f6759d02.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6b7f545.js",
+    "static/js/2.acc50bc0.chunk.js",
+    "static/js/main.08609a24.chunk.js"
+  ]
+}
